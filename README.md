@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babithg
-- 👀 I’m interested in python coding and AI and ML
+- 👀 I’m interested in python web design
 - 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on new design
 - 📫 How to reach me: babithg@gmail.com
