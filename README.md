@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @babithg
-- 👀 I’m interested in python web design
-- 🌱 I’m currently learning FastAPI, Flask and Django
-- 💞️ I’m looking to collaborate on new design
-- 📫 How to reach me: babithg@gmail.com
+<h3> You have reached on Babith's Profile Page </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babithg&label=Profile%20Hits&color=0e75b6&style=flat" alt="Babith Ganesh" /> Since 08/10/2023 </p>
+<label align="left"> <img src="https://komarev.com/ghpvc/?username=babithg&label=Profile%20Hits&color=0e75b6&style=flat" alt="Babith Ganesh" /> Since 08/10/2023</label>
+
+- 👋 Hi, I’m Babith G
+- 👀 I’m interested in DevOps / AI ML / Python
+- 🌱 I’m coding on DevOps infrastructure Automation
+- 💞️ I’m looking to collaborate on new design and ideas
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/babithg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Babith Ganesh" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/babithg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Babith Ganesh" height="50" width="100" /></a>
     <a href="https://medium.com/@babithganesh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Babith Ganesh" height="30" width="40" /></a>
     <a href="mailto: babithg@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Babith Ganesh" height="30" width="40" /></a>
 </p>
