@@ -1,51 +1,74 @@
-<h3> You have reached on Babith's Profile Page </h3>
+<div align="center">
 
-<label align="left"> <img src="https://komarev.com/ghpvc/?username=babithg&label=Profile%20Hits&color=0e75b6&style=flat" alt="Babith Ganesh" /> Since 08/10/2023</label>
+<h1>Babith G</h1>
+<h3>Agentic AI Developer &amp; Architect</h3>
 
-- 👋 Hi, I’m Babith G
-- 👀 I’m interested in DevOps / AI ML / Python
-- 🌱 I’m coding on DevOps infrastructure Automation
-- 💞️ I’m looking to collaborate on new design and ideas
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/babithg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Babith Ganesh" height="50" width="100" /></a>
-    <a href="https://medium.com/@babithganesh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Babith Ganesh" height="30" width="40" /></a>
-    <a href="mailto: babithg@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Babith Ganesh" height="30" width="40" /></a>
+<p>
+  Building intelligent, autonomous agents that think, plan, and act —<br/>
+  grounded in <strong>Python</strong>, <strong>Shell scripting</strong>, and <strong>Linux</strong> infrastructure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-    </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="teraform" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    </a> 
-</p>
+<a href="https://linkedin.com/in/babithg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-babithg-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@babithganesh" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-@babithganesh-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:babithg@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-babithg@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=babithg&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
+</div>
+
+---
+
+### What I Build
+
+- **Agentic AI Systems** — Multi-agent orchestration, autonomous reasoning pipelines, LLM tool-use, and AI workflow automation using frameworks like LangChain, LangGraph, and the Claude / OpenAI APIs
+- **Infrastructure for AI** — Cloud-native platforms (AWS, Kubernetes, Docker) that agents run reliably on, including CI/CD and IaC with Terraform
+- **Automation with Python & Shell** — End-to-end scripting from lightweight Bash glue code to full Python automation frameworks for DevOps and AI workflows
+- **Linux at the Core** — Systems-level expertise underpinning everything: process management, networking, security hardening, and performance tuning
+
+---
+
+### Core Stack
+
+**AI & Agents**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=for-the-badge&logoColor=white)
+
+**Shell & Systems**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=babithg&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+---
 
 <!---
 babithg/babithg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
