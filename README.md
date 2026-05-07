@@ -46,13 +46,6 @@
     </a> 
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babithg&show_icons=true&locale=en&layout=compact" alt="Babith Ganesh" />
-</p>
-<p>
-    &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=babithg&show_icons=true&locale=en" alt="Babith Ganesh" />
-</p>
 
 <!---
 babithg/babithg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
